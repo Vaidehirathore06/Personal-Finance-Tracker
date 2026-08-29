@@ -8,19 +8,19 @@ The application provides a simple dashboard for tracking transactions, analyzing
 
 ##  Features
 
-- 💵 Track income and expenses
-- 📊 Dashboard with total balance, income, and expenses
-- 📈 Calculate savings rate
-- 🧾 Add and delete transactions
-- 🏷️ Categorize transactions
-- 🔍 Search transactions
-- 🔎 Filter transactions by type and category
-- 📊 Spending breakdown by category
-- 📅 Monthly income vs. expense analysis
-- 💰 Set and monitor a monthly budget
-- 📉 Budget progress indicator
-- 💾 Persistent data storage using LocalStorage
-- 📱 Responsive design for desktop and mobile devices
+-  Track income and expenses
+-  Dashboard with total balance, income, and expenses
+-  Calculate savings rate
+-  Add and delete transactions
+-  Categorize transactions
+-  Search transactions
+-  Filter transactions by type and category
+-  Spending breakdown by category
+-  Monthly income vs. expense analysis
+-  Set and monitor a monthly budget
+-  Budget progress indicator
+-  Persistent data storage using LocalStorage
+-  Responsive design for desktop and mobile devices
 - 🇮🇳 Indian Rupee (₹) currency formatting
 
 ---
